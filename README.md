@@ -1,5 +1,6 @@
 ### How you doin?
 Some things about me:\
+
 *I'm a*
 * RPG enthusiast 🧙‍♂️
 * Backend Developer 🧑‍💻
@@ -15,7 +16,7 @@ You can find me in
 [Twitter](http://www.twitter.com/_odavi) and on
 [Instagram](http://www.instagram.com/_o.davi)
 
-Hope you like any of my codes, if you find anything strange on my repositories, you can comment or enter in contact. I'll read it.
+Hope you like any of my codes, if you find anything strange on my repositories, you can comment or enter in contact. I'll read it.\
 See ya! 👋
 
     
