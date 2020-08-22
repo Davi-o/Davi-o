@@ -1,4 +1,4 @@
-### Hi there 👋
+### Buenas? 👋
 
 <!--
 **Davi-o/Davi-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-[![Davi Alves's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/odavi)
+* RPG enthusiast 🧙‍♂️
+* Backend Developer 🧑‍💻
+* System Analysis and Development student 🎓
+* He/His 🏳️‍🌈
+* Slack writer ✒️
+
+I simply love to discover new things, and to follow new patterns. 
+Hope you like any of my codes, if you find anything strange on my repos, plz, you can comment or something alike. I'll read it.
+
+You can find me here:
+linkedin.com/in/o-davi/
+twitter.com/_odavi
+instagram.com/_o.davi
+
+See ya! 👋
+
+    
