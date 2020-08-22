@@ -1,5 +1,6 @@
 ### Buenas? 👋
 Some things about me:
+*I'm a*
 * RPG enthusiast 🧙‍♂️
 * Backend Developer 🧑‍💻
 * System Analysis and Development student 🎓
