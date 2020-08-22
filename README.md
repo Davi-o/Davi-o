@@ -5,7 +5,6 @@ Some things about me:\
 * RPG enthusiast 🧙‍♂️
 * Backend Developer 🧑‍💻
 * System Analysis and Development student 🎓
-* He/His 🏳️‍🌈
 * Slack writer ✒️
 
 Whats my major motto you may ask (i hope you would ask me this, anytime), i would answer:
