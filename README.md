@@ -1,5 +1,5 @@
 ### How you doin?
-Some things about me:
+Some things about me:\
 *I'm a*
 * RPG enthusiast 🧙‍♂️
 * Backend Developer 🧑‍💻
