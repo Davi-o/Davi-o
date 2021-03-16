@@ -7,7 +7,7 @@ Some things about me:
 * System Analysis and Development student 🎓
 * Slack writer ✒️
 
-Whats my major motto you may ask (i hope you would ask me this, anytime), i would answer:
+Whats my major motto to continue in this area you may ask (im hoping that you make this question to me someday), i would answer:
 Discover new things, and find new paths always changing my approaches and trying to maintain the high level development that y'all waiting.
 
 You can find me in
