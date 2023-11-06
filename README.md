@@ -4,7 +4,7 @@ Some things about me:
 *I'm a*
 * RPG Dungeon Master 🧙‍♂️
 * Backend Developer 🧑‍💻
-* System Analysis and Development Student 🎓
+* Graduate in systems analysis 🎓
 * Lazy writer ✒️
 
 If someone asked me "What's your major motto to continue in this area?", I would answer:
