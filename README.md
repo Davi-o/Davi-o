@@ -7,5 +7,5 @@ Some things about me:
 * System Analysis and Development Student 🎓
 * Lazy writer ✒️
 
-What's my major motto to continue in this area you may ask (I'm hoping that you make this question to me someday), I would answer:
-Discover new things, and find new paths always changing my approaches and trying to maintain the high-level development that y'all waiting for.
+If someone asked me "What's your major motto to continue in this area?", I would answer:
+Discover new things, and find new ways to solve problems always changing my approaches and trying to maintain the high-level development that y'all waiting for.
